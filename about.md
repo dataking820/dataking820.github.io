@@ -5,8 +5,10 @@ title: About me
 
 <div class="post">
 	<h2 class="pageTitle">About Hyun Seung Choi</h2>
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">Hyun Seung Choi is a Data Scientist at SK Hynix. </p>
+	<ul>
+		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
+	</ul>ul>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
