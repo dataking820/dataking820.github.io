@@ -15,7 +15,7 @@ plugins: [jekyll-paginate]
 paginate: 10
 
 navigation:
-  - title: HHome
+  - title: Home
     url: /index.html
   - title: About
     url: /about
