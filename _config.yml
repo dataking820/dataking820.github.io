@@ -2,7 +2,7 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://dataking820.github.io
-baseurl: "/dataking820"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
