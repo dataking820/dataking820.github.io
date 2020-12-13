@@ -12,7 +12,7 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 navigation:
   - title: Home
@@ -26,10 +26,10 @@ social:
   github: brianmaierjr
   twitter: brianmaierjr
   facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: gustmd820@gmail.com
   linkedin: brianmaierjr
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"
 
 disqus:
     shortname: brianmaierjr
