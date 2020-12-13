@@ -5,21 +5,11 @@ title: About me
 
 <div class="post">
 	<h2 class="pageTitle">About Hyun Seung Choi</h2>
-	<p class="intro">Hyun Seung Choi is a Data Scientist at SK Hynix. </p>
+	<p class="intro">Hyun Seung Choi is a machine  at SK Hynix.</p>
+	<p> His main Research interests are follow.</p>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-	</ul>ul>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+		<li>Computer Vision</li>
+		<li>Anomaly Detection</li>
+		<li>eXplainable AI</li>
+	</ul>
 </div>
