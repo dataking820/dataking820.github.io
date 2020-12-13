@@ -3,16 +3,6 @@ layout: default
 title: Contact Long Haul
 ---
 
-<div class="post">
-	<h2 class="pageTitle">About Hyun Seung Choi</h2>
-	<p> My main research interests are follow.</p>
-	<ul>
-		<li>Computer Vision</li>
-		<li>Anomaly Detection</li>
-	</ul>
-</div>
-
-
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
